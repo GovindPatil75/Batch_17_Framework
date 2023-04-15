@@ -10,5 +10,10 @@ public class Test_S1 extends BaseClass{
 	public void test_tc001() {
 		System.out.println("Test 1");
 	}
+	
+	@Test
+	public void test_tc002() {
+		System.out.println("Test 1");
+	}
 
 }
